@@ -2,14 +2,14 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'VK Live Header';
 ?>
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>Живі обої в розробці</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">На стадії вивчення yii 2 та написаного рішення в простому пхп</p>
 
         <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
     </div>
