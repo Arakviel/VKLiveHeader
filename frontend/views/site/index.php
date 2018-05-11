@@ -2,50 +2,24 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'VK Live Header';
+$this->title = 'VKLiveHeader';
 ?>
 <div class="site-index">
-
-    <div class="jumbotron">
-        <h1>Живі обої в розробці</h1>
-
-        <p class="lead">На стадії вивчення yii 2 та написаного рішення в простому пхп</p>
-
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
-    </div>
-
-    <div class="body-content">
+    <div class="col-sm-10 col-sm-offset-1">
+        <div class="jumbotron">
+            <h1></h1>
+            <p class="lead"><strong>Динамические обложки для сообществ Вконтакте</strong></p>
+            <a href="https://vk.com/dota2bunker">Тестовая группа находится здесь, для просмотра результата</a>
+        </div>
 
         <div class="row">
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
+            <div class="col-sm-12">
+                <div class="vk-by">
+                    <a href="/vk">
+                        <span class="vk-by-text">Создай свою динамическую обложку</span>
+                        <div class="vk-img"/></div>
+                    </a>
+                </div>
             </div>
         </div>
 
