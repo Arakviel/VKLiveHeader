@@ -7,7 +7,7 @@ $this->title = 'Жива шапка vk';
 ?>
 <div class="jumbotron">
 	<p class="lead"><strong>Конфигурация живой обложки</strong></p>
-	<a href="https://vk.com/dota2bunker">Тестовая группа находится здесь, для просмотра результата</a>
+	<a href="https://vk.com/dota2bunker" target="_blank">Тестовая группа находится здесь, для просмотра результата</a>
 </div>
 
 <div class="container">

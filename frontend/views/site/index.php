@@ -9,7 +9,7 @@ $this->title = 'VKLiveHeader';
         <div class="jumbotron">
             <h1></h1>
             <p class="lead"><strong>Динамические обложки для сообществ Вконтакте</strong></p>
-            <a href="https://vk.com/dota2bunker">Тестовая группа находится здесь, для просмотра результата</a>
+            <a href="https://vk.com/dota2bunker" target="_blank">Тестовая группа находится здесь, для просмотра результата</a>
         </div>
 
         <div class="row">
